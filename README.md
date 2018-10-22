@@ -16,4 +16,4 @@ This will create a directory called `hw2` in your Cloud9 IDE.
 
 Complete the homework per the instructions in the `hw2.rb` file.
 
-Use the "Share" button in the upper-right corner of the Cloud9 IDE to copy the link to your Cloud9 environment. This should be something like `https://console.aws.amazon.com/cloud9/ide/xxxxxxxxxxxxxx`. Use the URL as your "Web URL" submission in Canvas.
+Right-click on the `hw2` folder in the sidebar in Cloud9. Select "Download", which will create a file named `hw2.tar.gz`. Upload this file into Canvas as your submission.
