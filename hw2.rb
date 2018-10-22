@@ -1,9 +1,9 @@
 # To execute this code, be sure you're in the right directory;
-# (Cloud9) cd ~/environment/hw1
+# (Cloud9) cd ~/environment/hw2
 # Then type:
-# ruby hw1.rb
+# ruby hw2.rb
 
-# HOMEWORK 1
+# HOMEWORK 2
 
 # Given the following Ruby hash that represents weather data,
 # write a weather summary out to the screen, when this code is executed. 
