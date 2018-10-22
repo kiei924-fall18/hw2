@@ -1,4 +1,4 @@
-# Homework Assignment #1
+# Homework Assignment #2
 ## KIEI-924 Fall 2018
 
 ### Guidelines for submission
